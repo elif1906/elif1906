@@ -12,29 +12,29 @@
 
 ## Links
 
-- LinkedIn: [https://www.linkedin.com/in/elif-nur-aslıhan-celepoğlu/]
-- Personal Website: [https://cv-site-six.vercel.app]
+- LinkedIn: https://www.linkedin.com/in/elif-nur-aslıhan-celepoğlu/
+- Personal Website: https://cv-site-six.vercel.app
 
-💼 **Position:** [Your Job Title or Freelance]
+💼 **Position:** Your Job Title or Freelance
 
 💻 **Expertise:**
-- Programming Languages: [Languages]
-- Technologies and Tools: [Technologies]
-- Interests: [Interests]
+- Programming Languages: Languages
+- Technologies and Tools: Technologies
+- Interests: Interests
 
-🌱 **Currently Learning:** [Topics or languages you are currently learning]
+🌱 **Currently Learning:** Topics or languages you are currently learning
 
 ## Projects
 
-### [Project Name 1]
-[Description of the project, key details, technologies used, etc.]
+### Project Name 1
+Description of the project, key details, technologies used, etc.
 
-### [Project Name 2]
-[Description of the project, key details, technologies used, etc.]
+### Project Name 2
+Description of the project, key details, technologies used, etc.
 
 
 ## Contact
 
-📧 Email: [elifcelep511@gmail.com]
+📧 Email: elifcelep511@gmail.com
 
 
